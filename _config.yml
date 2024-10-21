@@ -6,115 +6,99 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Wahab Faizi
+title: Electrical & Electronic Engineering Student | Aspiring Software Engineer
+email: wahabfaizi10@outlook.com
+website: www.github.com/wahab1000
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username: wahab1000 # Your GitHub username
+linkedin: www.linkedin.com/in/wahab-faizi # Your LinkedIn username
 
-# Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+about_content: | # Description about yourself
+  Hi, my name's Wahab Faizi, and I am a second-year Electrical & Electronic Engineering student at Queen Mary University of London, aspiring to build a career in software engineering. With a strong academic background (projected first-class degree), hands-on software development experience, and extracurricular leadership roles, I am focused on merging technical engineering skills with practical software solutions.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Python (Flask)</mark>, <mark>SQL</mark>, and <mark>HTML</mark>. I also have experience working with front-end and back-end frameworks to build data-driven applications, as well as leadership experience through co-founding the Circuit Design Society at my university.
+
+  I am passionate about contributing to impactful projects, continuously learning, and applying my skills to real-world problems, particularly in software engineering and electrical systems.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
+        title: CogStack Catalogue App
+
         additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - title: Project Presentation
+            icon: fas fa-file-powerpoint
+            url: [LinkToPowerPoint] # Link to the presentation file, if available
+        description: |
+          As part of my software developer internship at UCL, I worked on the backend and frontend of the CogStack Catalogue app, an application for requesting healthcare data. I improved the backend performance using Flask and SQL, optimized data queries, and added front-end features using HTML for better user interaction. In the presentation, I describe briefly all the tasks I completed during my internship.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+      - layout: top-middle
+        title: Circuit Design Society Projects
+        link: [GitHubOrWebsiteLink] # Link to your society's project (if any)
+        description: |
+          As a co-founder and treasurer of the Circuit Design Society, I lead and organize several hands-on projects, including teaching first-year students the fundamentals of circuit design and encouraging practical learning through workshops and events.
+
+      - layout: top-middle
+        title: Upcoming Projects
+        link: [GitHubRepositoryLinkForUpcomingProjects] # Add the link to any upcoming project or leave blank
+        description: |
+          Currently working on several software engineering projects, including an application that automates data collection for healthcare research and a web-based dashboard for data visualization using Python, Flask, and SQL.
+
+  - title: Experience
+    layout: list
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+        title: Software Developer Intern
+        link: https://www.ucl.ac.uk
+        sub_title: UCL, London
+        caption: June 2024 - September 2024
+        description: |
+          Developed and enhanced the CogStack Catalogue app, focusing on the backend using Flask and Python, and front-end with HTML. Managed SQL databases and implemented Elasticsearch and Kibana for healthcare data visualization.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+      - layout: left
+        title: Engineering Intern
+        link: https://www.burohappold.com
+        sub_title: Buro Happold, London
+        caption: October 2022 (1 month)
+        description: |
+          Worked alongside the Electrical, Structural, and IT teams on large-scale projects like The Line in Saudi Arabia. Composed an electrical system sketch for a high-rise building in Athens, collaborated on smart city projects, and gained invaluable real-world engineering insights.
+
+  - title: Education
+    layout: list
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+        title: Queen Mary University of London
+        caption: 2023 - Present
+        sub_title: BEng Electrical & Electronic Engineering (Projected First-Class Honours)
+        description: |
+          Achieved a First-Class grade in the first year with top marks in Digital Circuit Design (100%), EE Mathematics (99.1%), and Engineering Skills (95.1%). Co-founded the Circuit Design Society and led several technical workshops.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Isleworth & Syon School
+        caption: 2016 - 2023
+        sub_title: A-Levels in Mathematics (A), Physics (B), Economics (B)
+        description: |
+          Held leadership roles as House Captain and Sports Captain, organizing events and leading my peers in academic and extracurricular activities.
 
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: | 
+      Outside of engineering, I am actively involved in martial arts, training and competing in Brazilian Jiu-Jitsu and Judo. These sports have greatly improved my problem-solving, discipline, and decision-making skills.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      I strive to be a key member of my community. I have organized three charity sports tournaments at my local youth center, and I am currently working with cultural societies at university to organize a charity 5K run. Leadership and community engagement have always been at the heart of my personal values, which is why I held roles such as House Captain during my school years.
 
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: References available on request
 
 # Build settings
 remote_theme: sproogen/resume-theme
