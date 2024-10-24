@@ -38,12 +38,12 @@ content:
         additional_links:
           - title: Project Presentation
             icon: fas fa-file-powerpoint
-            url: CogStack Catalogue Presentation.pdf # Link to the presentation file, if available
+            url: https://qmulprod-my.sharepoint.com/:p:/r/personal/ec23245_qmul_ac_uk/Documents/CogStack%20Catalogue%20Presentation.pptx?d=w75b233c58ce84a4bb1a75bb187a2e665&csf=1&web=1&e=2C13kb # Link to the presentation file, if available
         description: |
           As part of my software developer internship at UCL, I worked on the backend and frontend of the CogStack Catalogue app, an application for requesting healthcare data. I improved the backend performance using Flask and SQL, optimized data queries, and added front-end features using HTML for better user interaction. In the presentation, I describe briefly all the tasks I completed during my internship.
 
       - layout: top-middle
-        title: Circuit Design Society Projects
+        title: Circuit Design Society 
         description: |
           As a co-founder and treasurer of the Circuit Design Society, I lead and organize several hands-on projects, including teaching first-year students the fundamentals of circuit design and encouraging practical learning through workshops and events.
 
