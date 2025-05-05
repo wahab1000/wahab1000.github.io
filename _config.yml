@@ -21,11 +21,11 @@ linkedin: www.linkedin.com/in/wahab-faizi
 # About Section
 about_profile_image: IMG_6655 2.jpg
 about_content: |
-  Hello, I'm Wahab Faizi—a second-year Electrical & Electronic Engineering student at Queen Mary University of London with a projected First-Class Honours. My academic work and extracurriculars bridge the gap between engineering and technology, combining both hands-on design and software development.
+  Hello, I'm Wahab Faizi—a second-year Electrical & Electronic Engineering student at Queen Mary University of London with a projected First-Class Honours. I bridge the gap between hardware and software through engineering design, software development, and AI experimentation.
 
-  I’m skilled in <mark>Python (Flask)</mark>, <mark>SQL</mark>, <mark>HTML/CSS</mark>, and have experience with <mark>Java</mark>, <mark>C</mark>, Docker, and Elasticsearch. Outside of coding, I co-founded the Circuit Design Society and regularly compete in Brazilian Jiu-Jitsu and Judo at a national level, where I’ve helped my team secure three consecutive national titles.
+  My core skills include <mark>Python (Flask)</mark>, <mark>SQL</mark>, <mark>HTML/CSS</mark>, <mark>Java</mark>, <mark>C</mark>, <mark>Elasticsearch</mark>, <mark>Kibana</mark>, and embedded systems using Arduino. I also work with tools like Docker and have growing experience in AI and NLP model development.
 
-  Whether building autonomous robots or improving digital systems, I enjoy solving real-world problems at the intersection of hardware and software.
+  Beyond technical skills, I lead societies, coach youth athletes, and contribute to impactful projects that demonstrate initiative, teamwork, and leadership—qualities I bring to every environment I’m part of.
 
 content:
   - title: Projects
@@ -38,7 +38,7 @@ content:
             icon: fas fa-file-powerpoint
             url: https://qmulprod-my.sharepoint.com/:p:/r/personal/ec23245_qmul_ac_uk/Documents/CogStack%20Catalogue%20Presentation.pptx?d=w75b233c58ce84a4bb1a75bb187a2e665&csf=1&web=1&e=2C13kb
         description: |
-          Worked on backend and frontend development for the healthcare-focused CogStack Catalogue app during a UCL internship. Optimised database queries using SQL, enhanced the backend with Flask, and improved the HTML-based user interface. Integrated Elasticsearch and Kibana for advanced data handling and visualisation.
+          Developed an end-to-end healthcare data request tool during my internship at UCL. Used <mark>Flask</mark> and <mark>Python</mark> to build APIs, improved <mark>SQL</mark> queries for performance, and integrated <mark>Elasticsearch</mark> and <mark>Kibana</mark> for large-scale data visualisation. Enhanced <mark>HTML</mark> front-end for better user interaction. Also gained experience with <mark>NLP</mark> and ethical data handling practices in a clinical research environment.
 
       - layout: top-middle
         title: Autonomous Line-Following Robot
@@ -47,17 +47,17 @@ content:
             icon: fab fa-github
             url: https://github.com/wahab1000/Autonomous-Line-Following-and-Obstacle-Avoiding-Vehicle
         description: |
-          Designed and built a self-navigating robot using an Arduino Nano. Programmed in embedded C for line-following and obstacle detection. Led the circuit design, sensor calibration, and system integration.
+          Designed and built a robot using an <mark>Arduino Nano</mark> that autonomously follows lines and avoids obstacles. Programmed using <mark>C</mark>, designed circuit schematics, and integrated IR sensors for real-time path tracking. Demonstrated skills in <mark>embedded systems</mark>, <mark>sensor calibration</mark>, <mark>system integration</mark>, and team-based problem-solving.
 
       - layout: top-middle
         title: Circuit Design Society
         description: |
-          Co-founded this student-led society to promote practical electronics learning. Organised workshops on circuit design and coordinated events to help undergraduates enhance their technical confidence.
+          Co-founded a society focused on hands-on electronics. Designed and led <mark>practical workshops</mark> in <mark>digital circuit design</mark> and <mark>breadboarding</mark> for first-year students. Gained experience in <mark>leadership</mark>, <mark>public speaking</mark>, <mark>curriculum planning</mark>, and peer mentorship.
 
       - layout: top-middle
         title: Upcoming Projects
         description: |
-          Currently working on automating data collection for healthcare research and building a web-based dashboard for data visualisation using Flask and SQL.
+          Collaborating on a web application that uses <mark>AI</mark> and <mark>web scraping</mark> to help users find the best online deals. The user inputs a product name, and the app searches multiple marketplaces (e.g. Facebook Marketplace, eBay), comparing listings and recommending the best value. We're using <mark>Python</mark>, <mark>Flask</mark>, <mark>SQL</mark> for the backend, and <mark>HTML</mark> for the frontend. This project blends <mark>AI development</mark>, <mark>automation</mark>, <mark>UX design</mark>, and <mark>entrepreneurial thinking</mark>.
 
   - title: Experience
     layout: list
@@ -68,22 +68,22 @@ content:
         sub_title: UCL, London
         caption: June 2024 - September 2024
         description: |
-          Developed backend features in Python (Flask) and optimised SQL databases. Used Kibana and Elasticsearch for visualising healthcare data. Improved user experience through HTML interface updates and explored basic natural language processing and AI model training.
+          Built backend features in <mark>Python</mark> using <mark>Flask</mark>, managed healthcare data with <mark>SQL</mark>, and applied <mark>Elasticsearch</mark>/<mark>Kibana</mark> for dashboard visualisation. Improved HTML UI and collaborated using agile methodologies. Developed early-stage familiarity with <mark>AI</mark> and <mark>natural language processing</mark> for medical data analysis.
+
+      - layout: left
+        title: Engineering Intern
+        link: https://www.burohappold.com
+        sub_title: Buro Happold, London
+        caption: October 2022
+        description: |
+          Supported multidisciplinary teams on international projects including The Line (Saudi Arabia). Designed a modular <mark>electrical system</mark> for a high-rise in Athens and gained experience in <mark>smart city infrastructure</mark>, <mark>technical drawing</mark>, and <mark>collaborative design</mark> with IT and structural engineers.
 
       - layout: left
         title: Assistant BJJ Coach
         sub_title: Carlson Gracie London
         caption: January 2025 – Present
         description: |
-          Began coaching children aged 3–16 in Brazilian Jiu-Jitsu. Adapted teaching methods to suit a range of age groups and learning styles. Built communication, leadership, and mentoring skills while supporting a positive, disciplined team environment.
-
-      - layout: left
-        title: Engineering Intern
-        link: https://www.burohappold.com
-        sub_title: Buro Happold, London
-        caption: October 2022 (1 month)
-        description: |
-          Contributed to international infrastructure projects, including The Line in Saudi Arabia. Designed an electrical system for a high-rise building in Athens. Worked closely with IT, electrical, and structural teams on smart city concepts.
+          Coach young children aged 3–16 in Brazilian Jiu-Jitsu, tailoring teaching styles to varied needs. Developed <mark>mentorship</mark>, <mark>adaptability</mark>, <mark>communication</mark>, and <mark>leadership</mark> skills. Fostered a supportive environment that promotes discipline, teamwork, and growth.
 
   - title: Education
     layout: list
@@ -93,23 +93,23 @@ content:
         caption: 2023 - Present
         sub_title: BEng Electrical & Electronic Engineering (Projected First-Class Honours)
         description: |
-          Achieved First-Class grades in core modules: Digital Circuit Design (100%), Electronic Engineering Mathematics (99.1%), Engineering Skills & Practice (95.1%). Co-founded the Circuit Design Society and led workshops on electronics fundamentals.
+          Achieved First-Class grades in modules such as <mark>Digital Circuit Design (100%)</mark>, <mark>Electronic Engineering Mathematics (99.1%)</mark>, and <mark>Engineering Skills & Practise (95.1%)</mark>. Co-founded a technical society and developed expertise in <mark>hardware design</mark>, <mark>signal processing</mark>, and <mark>project management</mark>.
 
       - layout: left
         title: Isleworth & Syon School
         caption: 2016 - 2023
         sub_title: A-Levels in Mathematics (A), Physics (B), Economics (B)
         description: |
-          Held leadership roles as House Captain and Sports Captain. Organised student-led events and guided peers in academic and extracurricular activities.
+          Held roles as House Captain and Sports Captain. Organised major student initiatives and demonstrated leadership in academic and extracurricular settings.
 
   - title: A Little More About Me
     layout: text
     content: |
-      I’m a national-level Brazilian Jiu-Jitsu and Judo competitor, representing Carlson Gracie London. As an athlete, I’ve helped my team secure three consecutive national titles, which has greatly developed my discipline, strategic thinking, and resilience under pressure.
+      I’m a national-level Brazilian Jiu-Jitsu and Judo competitor with three consecutive national titles. These experiences have sharpened my <mark>resilience</mark>, <mark>strategic thinking</mark>, and <mark>composure under pressure</mark>.
 
-      Since January 2025, I’ve also taken on a coaching role, teaching children aged 3–16. This has strengthened my communication and mentoring abilities, as I work to build confidence and focus in young learners.
+      Since 2025, I’ve taken on a coaching role, where I work with children to instil <mark>discipline</mark>, <mark>confidence</mark>, and <mark>focus</mark>. This has helped strengthen my ability to <mark>mentor</mark>, <mark>communicate effectively</mark>, and <mark>lead</mark> diverse groups.
 
-      Beyond martial arts, I’ve organised three charity sports tournaments at my local youth centre and am currently planning a university-wide 5K charity run. Community engagement and leadership are core to who I am.
+      Beyond sport, I’ve organised three charity tournaments and am currently planning a 5K charity run at university. Whether in athletics, engineering, or community projects, I bring initiative and leadership to everything I pursue.
 
 # Footer
 footer_show_references: true
