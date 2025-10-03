@@ -9,15 +9,14 @@ version: 2
 name: Wahab Faizi
 title: Electrical & Electronic Engineering Student | Developer & Problem Solver
 email: wahabfaizi10@outlook.com
-linkedin: www.linkedin.com/in/wahab-faizi 
 website: www.github.com/wahab1000
 
 # Dark Mode
 darkmode: false
 
-# Social links
+# Social links (icons appear top-right)
 github_username: wahab1000
-linkedin: www.linkedin.com/in/wahab-faizi
+linkedin: wahab-faizi
 
 # About Section
 about_profile_image: IMG_6655 2.jpg
@@ -151,5 +150,6 @@ keywords: "Wahab Faizi, Engineering Student, Electrical Engineering, Software De
 
 plugins:
  - jekyll-seo-tag
+
 
 
