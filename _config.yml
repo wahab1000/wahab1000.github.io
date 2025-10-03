@@ -14,9 +14,9 @@ website: www.github.com/wahab1000
 # Dark Mode
 darkmode: false
 
-# Social links (icons appear top-right)
+# Social links (top-right icons)
 github_username: wahab1000
-linkedin: wahab-faizi
+linkedin_username: wahab-faizi
 
 # About Section
 about_profile_image: IMG_6655 2.jpg
@@ -144,12 +144,13 @@ sass:
   style: compressed
 
 # SEO settings
-title: "Wahab Faizi | Engineering, FinTech & Consulting"
+title: "Wahab Faizi | Electrical & Electronic Engineering Student | Developer & Problem Solver"
 description: "Wahab Faizi – Electrical & Electronic Engineering student at Queen Mary University of London. Interests in software, AI, consulting, and FinTech. Skilled in Python, SQL, Flask, and embedded systems. Active member of FinTech Society and experienced in leadership, teamwork, and problem-solving."
 keywords: "Wahab Faizi, Engineering Student, Electrical Engineering, Software Developer, FinTech, Finance, Consulting, AI, Python, SQL, Flask, Embedded Systems, University of London"
 
 plugins:
  - jekyll-seo-tag
+
 
 
 
