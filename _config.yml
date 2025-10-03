@@ -25,7 +25,7 @@ about_content: |
 
   My core skills include <mark>Python (Flask)</mark>, <mark>SQL</mark>, <mark>HTML/CSS</mark>, <mark>Java</mark>, <mark>C</mark>, <mark>Elasticsearch</mark>, <mark>Kibana</mark>, and embedded systems using Arduino. I also work with tools like Docker and have growing experience in <mark>AI</mark> and <mark>NLP</mark> model development.
 
-  Beyond technical skills, I co-founded a student society, coach youth athletes, and contribute to impactful projects that demonstrate initiative, teamwork, and leadership — qualities I bring to every environment I’m part of.
+  Beyond technical skills, I co-founded a student society, coach youth athletes, and actively contribute to the **FinTech Society**, where I explore how technology can drive innovation in finance. These experiences demonstrate initiative, teamwork, and leadership — qualities I bring to every environment I’m part of.
 
 content:
   - title: Projects
@@ -100,7 +100,7 @@ content:
         caption: 2023 - Present
         sub_title: BEng Electrical & Electronic Engineering (Projected First-Class Honours)
         description: |
-          First-Class grades in modules including <mark>Digital Circuit Design (100%)</mark>, <mark>Electronic Engineering Mathematics (99.1%)</mark>, and <mark>Engineering Skills & Practise (95.1%)</mark>. Built strengths in <mark>hardware design</mark>, <mark>signal processing</mark>, and <mark>project management</mark>.
+          First-Class grades in modules including <mark>Digital Circuit Design (100%)</mark>, <mark>Electronic Engineering Mathematics (99.1%)</mark>, and <mark>Engineering Skills & Practise (95.1%)</mark>. Built strengths in <mark>hardware design</mark>, <mark>signal processing</mark>, and <mark>project management</mark>. Active member of the **FinTech Society**, engaging with applications of technology in financial systems.
 
       - layout: left
         title: Isleworth & Syon School
@@ -116,11 +116,12 @@ content:
 
       - **Analytical problem-solving**: proven through engineering internships and data-driven projects.  
       - **Communication & presentation**: experience delivering technical findings to stakeholders.  
-      - **Leadership & mentoring**: co-founder of a society and youth sports coach.  
+      - **Leadership & mentoring**: co-founder of a society, FinTech Society member, and youth sports coach.  
       - **Project coordination**: managed group projects, balancing deadlines and team roles.  
+      - **Financial awareness**: involvement in FinTech Society and economics background highlight interest in finance within STEM.  
       - **Community engagement**: organised charity events and collaborated with societies on fundraising.
 
-      These experiences show I can apply my engineering mindset not only in technical roles but also in consulting, finance, and broader STEM industries.
+      These experiences show I can apply my engineering mindset not only in technical roles but also in consulting, fintech, and finance-related industries.
 
   - title: A Little More About Me
     layout: text
@@ -129,7 +130,7 @@ content:
 
       Since 2025, I’ve coached youth classes, instilling <mark>discipline</mark>, <mark>confidence</mark>, and <mark>focus</mark> in students aged 3–16. This experience strengthened my <mark>mentoring</mark>, <mark>communication</mark>, and <mark>leadership</mark> skills.
 
-      I’ve organised three charity sports tournaments and am planning a 5K charity run with university societies. Whether in athletics, engineering, or community work, I bring initiative and a team-first mindset.
+      I’ve organised three charity sports tournaments and am planning a 5K charity run with university societies. Whether in athletics, engineering, fintech, or community work, I bring initiative and a team-first mindset.
 
 # Footer
 footer_show_references: true
@@ -142,6 +143,12 @@ sass:
   sass_dir: _sass
   style: compressed
 
+# SEO settings
+title: "Wahab Faizi | Engineering, FinTech & Consulting"
+description: "Wahab Faizi – Electrical & Electronic Engineering student at Queen Mary University of London. Interests in software, AI, consulting, and FinTech. Skilled in Python, SQL, Flask, and embedded systems. Active member of FinTech Society and experienced in leadership, teamwork, and problem-solving."
+keywords: "Wahab Faizi, Engineering Student, Electrical Engineering, Software Developer, FinTech, Finance, Consulting, AI, Python, SQL, Flask, Embedded Systems, University of London"
+
 plugins:
  - jekyll-seo-tag
+
 
